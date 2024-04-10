@@ -12,5 +12,5 @@ I used Trackbars to manipulate the values for blue range ,the following results 
       pip install opencv-python
     ```
 #### Results : 
-  ![alt text](https://github.com/moadmmh/Python-Heaven/blob/master/Object_Tracking/Tracking_Using_HSV/HSV_Results.PNG)
+  ![alt text](https://github.com/HarshGupta998/Object_tracking/blob/main/HSV_Results.PNG?raw=true)
   
